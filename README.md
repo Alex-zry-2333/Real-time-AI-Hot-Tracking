@@ -46,7 +46,6 @@
 | [microsoft/autogen](https://github.com/microsoft/autogen) | 58,823 | 2026-06-10 | 微软多Agent对话框架 |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 58,226 | 2026-06-10 | AI应用的自适应记忆层 |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 53,179 | 2026-06-10 | 多Agent协作框架 |
-| [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) | 53,179 | 2026-06-10 | 多Agent协作框架 |
 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28,706 | 2026-06-10 | 为AI Agent提供200+工具集成 |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 25,736 | 2026-06-10 | 给AI Agent全网浏览能力 |
 | [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) | 9,661 | 2026-06-09 | 自动优化提示词工具 |

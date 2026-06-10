@@ -46,7 +46,6 @@ Projects are checked weekly. Those inactive for over 6 months with <10k stars ar
 | [microsoft/autogen](https://github.com/microsoft/autogen) | 58,823 | 2026-06-10 | Microsoft multi-agent conversational framework |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 58,226 | 2026-06-10 | Adaptive memory layer for AI applications |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 53,179 | 2026-06-10 | Multi-agent collaboration framework |
-| [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) | 53,179 | 2026-06-10 | Multi-agent collaboration framework |
 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 28,706 | 2026-06-10 | 200+ tool integrations for AI agents |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 25,736 | 2026-06-10 | Give AI agents full web browsing capability |
 | [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) | 9,661 | 2026-06-09 | Automatic prompt optimization tool |

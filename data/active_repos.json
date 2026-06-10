@@ -210,16 +210,6 @@
     "status": "active"
   },
   {
-    "name": "joaomdmoura/crewAI",
-    "category": "agent",
-    "description_cn": "多Agent协作框架",
-    "description_en": "Multi-agent collaboration framework",
-    "stars": 53179,
-    "last_updated": "2026-06-10T06:24:24Z",
-    "added_date": "2026-06-10T14:28:50.251780",
-    "status": "active"
-  },
-  {
     "name": "mshumer/gpt-prompt-engineer",
     "category": "agent",
     "description_cn": "自动优化提示词工具",
