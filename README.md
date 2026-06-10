@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔥 实时AI热点追踪
 
 > 追踪GitHub上最热门的AI开源项目，每周自动更新
@@ -176,4 +177,4 @@
 
 ## 📄 License
 
-本项目采用 MIT License
+ 本项目采用 MIT License
