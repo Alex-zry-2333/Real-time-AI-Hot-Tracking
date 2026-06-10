@@ -1,0 +1,852 @@
+[
+  {
+    "name": "meta-llama/llama",
+    "category": "llm",
+    "description_cn": "Meta开源的大语言模型系列",
+    "description_en": "Meta's open source large language model series",
+    "stars": 59453,
+    "last_updated": "2026-06-10T02:25:02Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "QwenLM/Qwen",
+    "category": "llm",
+    "description_cn": "阿里巴巴开源的大语言模型",
+    "description_en": "Alibaba's open source large language model",
+    "stars": 21265,
+    "last_updated": "2026-06-10T06:24:10Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "THUDM/ChatGLM3",
+    "category": "llm",
+    "description_cn": "清华开源的中英双语对话模型",
+    "description_en": "Tsinghua's bilingual Chinese-English dialogue model",
+    "stars": 13680,
+    "last_updated": "2026-06-09T07:03:00Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "mistralai/mistral-src",
+    "category": "llm",
+    "description_cn": "Mistral AI高效大语言模型",
+    "description_en": "Mistral AI efficient large language model",
+    "stars": 10813,
+    "last_updated": "2026-06-10T05:24:31Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "huggingface/candle",
+    "category": "llm",
+    "description_cn": "Rust实现的极简ML框架，支持LLM推理",
+    "description_en": "Minimalist ML framework in Rust supporting LLM inference",
+    "stars": 20458,
+    "last_updated": "2026-06-10T06:33:32Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "01-ai/Yi",
+    "category": "llm",
+    "description_cn": "零一万物开源大模型",
+    "description_en": "01.AI open source large model",
+    "stars": 7821,
+    "last_updated": "2026-06-06T09:36:47Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "internlm/internlm",
+    "category": "llm",
+    "description_cn": "书生·浦语大模型",
+    "description_en": "InternLM large language model",
+    "stars": 7218,
+    "last_updated": "2026-06-09T06:57:27Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "baichuan-inc/Baichuan2",
+    "category": "llm",
+    "description_cn": "百川智能开源大模型",
+    "description_en": "Baichuan Intelligence open source model",
+    "stars": 4101,
+    "last_updated": "2026-06-09T12:47:31Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "AUTOMATIC1111/stable-diffusion-webui",
+    "category": "multimodal",
+    "description_cn": "Stable Diffusion最流行的Web界面",
+    "description_en": "Most popular web UI for Stable Diffusion",
+    "stars": 163589,
+    "last_updated": "2026-06-10T06:18:56Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "comfyanonymous/ComfyUI",
+    "category": "multimodal",
+    "description_cn": "节点式Stable Diffusion工作流",
+    "description_en": "Node-based Stable Diffusion workflow",
+    "stars": 116407,
+    "last_updated": "2026-06-10T06:26:46Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "invoke-ai/InvokeAI",
+    "category": "multimodal",
+    "description_cn": "专业级Stable Diffusion创作工具",
+    "description_en": "Professional Stable Diffusion creation tool",
+    "stars": 27399,
+    "last_updated": "2026-06-10T06:14:59Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "Stability-AI/generative-models",
+    "category": "multimodal",
+    "description_cn": "Stability AI生成模型官方实现",
+    "description_en": "Stability AI official generative models implementation",
+    "stars": 27180,
+    "last_updated": "2026-06-10T00:21:33Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "lllyasviel/stable-diffusion-webui-forge",
+    "category": "multimodal",
+    "description_cn": "SD WebUI优化版本",
+    "description_en": "Optimized version of SD WebUI",
+    "stars": 12707,
+    "last_updated": "2026-06-10T02:21:29Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "coqui-ai/TTS",
+    "category": "multimodal",
+    "description_cn": "深度学习文本转语音",
+    "description_en": "Deep learning text-to-speech",
+    "stars": 45519,
+    "last_updated": "2026-06-10T01:19:46Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "Significant-Gravitas/AutoGPT",
+    "category": "agent",
+    "description_cn": "让AI自主完成任务的实验性框架",
+    "description_en": "Experimental framework for AI autonomous tasks",
+    "stars": 184863,
+    "last_updated": "2026-06-10T06:22:46Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "langflow-ai/langflow",
+    "category": "agent",
+    "description_cn": "可视化构建AI Agent和工作流",
+    "description_en": "Visual tool for building AI agents and workflows",
+    "stars": 149480,
+    "last_updated": "2026-06-10T06:30:40Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "langgenius/dify",
+    "category": "agent",
+    "description_cn": "生产级Agent工作流开发平台",
+    "description_en": "Production-ready agent workflow development platform",
+    "stars": 144639,
+    "last_updated": "2026-06-10T06:30:35Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "crewAIInc/crewAI",
+    "category": "agent",
+    "description_cn": "多Agent协作框架",
+    "description_en": "Multi-agent collaboration framework",
+    "stars": 53179,
+    "last_updated": "2026-06-10T06:24:24Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "microsoft/autogen",
+    "category": "agent",
+    "description_cn": "微软多Agent对话框架",
+    "description_en": "Microsoft multi-agent conversational framework",
+    "stars": 58823,
+    "last_updated": "2026-06-10T06:30:01Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "category": "agent",
+    "description_cn": "可随用户成长的智能Agent",
+    "description_en": "Intelligent agent that grows with you",
+    "stars": 189131,
+    "last_updated": "2026-06-10T06:31:47Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "mem0ai/mem0",
+    "category": "agent",
+    "description_cn": "AI应用的自适应记忆层",
+    "description_en": "Adaptive memory layer for AI applications",
+    "stars": 58226,
+    "last_updated": "2026-06-10T06:45:49Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "joaomdmoura/crewAI",
+    "category": "agent",
+    "description_cn": "多Agent协作框架",
+    "description_en": "Multi-agent collaboration framework",
+    "stars": 53179,
+    "last_updated": "2026-06-10T06:24:24Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "mshumer/gpt-prompt-engineer",
+    "category": "agent",
+    "description_cn": "自动优化提示词工具",
+    "description_en": "Automatic prompt optimization tool",
+    "stars": 9661,
+    "last_updated": "2026-06-09T10:37:10Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "category": "agent",
+    "description_cn": "给AI Agent全网浏览能力",
+    "description_en": "Give AI agents full web browsing capability",
+    "stars": 25736,
+    "last_updated": "2026-06-10T06:33:44Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "open-webui/open-webui",
+    "category": "devtools",
+    "description_cn": "支持多种模型的友好AI对话界面",
+    "description_en": "User-friendly AI chat interface supporting multiple models",
+    "stars": 140897,
+    "last_updated": "2026-06-10T06:26:00Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "ollama/ollama",
+    "category": "devtools",
+    "description_cn": "本地运行大模型的极简工具",
+    "description_en": "Minimalist tool to run LLMs locally",
+    "stars": 173730,
+    "last_updated": "2026-06-10T06:30:02Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "vllm-project/vllm",
+    "category": "devtools",
+    "description_cn": "高吞吐量LLM推理引擎",
+    "description_en": "High-throughput LLM inference engine",
+    "stars": 82373,
+    "last_updated": "2026-06-10T06:33:49Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "huggingface/transformers",
+    "category": "devtools",
+    "description_cn": "HuggingFace Transformers库",
+    "description_en": "HuggingFace Transformers library",
+    "stars": 161467,
+    "last_updated": "2026-06-10T06:25:14Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "xtekky/gpt4free",
+    "category": "devtools",
+    "description_cn": "免费使用各种LLM API的代理",
+    "description_en": "Proxy to use various LLM APIs for free",
+    "stars": 66312,
+    "last_updated": "2026-06-10T06:06:31Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "microsoft/markitdown",
+    "category": "devtools",
+    "description_cn": "各类文件转换为Markdown",
+    "description_en": "Convert files and office documents to Markdown",
+    "stars": 149595,
+    "last_updated": "2026-06-10T06:34:20Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "sgl-project/sglang-omni",
+    "category": "devtools",
+    "description_cn": "高性能多阶段Pipeline框架",
+    "description_en": "High-performance multi-stage pipeline framework",
+    "stars": 472,
+    "last_updated": "2026-06-09T18:51:41Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "chopratejas/headroom",
+    "category": "devtools",
+    "description_cn": "压缩LLM输入token，节省60-95%",
+    "description_en": "Compress LLM inputs, save 60-95% tokens",
+    "stars": 20921,
+    "last_updated": "2026-06-10T06:34:37Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "continuedev/continue",
+    "category": "coding",
+    "description_cn": "开源AI代码助手IDE插件",
+    "description_en": "Open-source AI coding assistant IDE plugin",
+    "stars": 33635,
+    "last_updated": "2026-06-10T06:35:36Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "TabbyML/tabby",
+    "category": "coding",
+    "description_cn": "自托管AI代码补全工具",
+    "description_en": "Self-hosted AI code completion tool",
+    "stars": 33578,
+    "last_updated": "2026-06-10T04:29:52Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "Exafunction/codeium.vim",
+    "category": "coding",
+    "description_cn": "免费AI编程助手",
+    "description_en": "Free AI coding assistant",
+    "stars": 5117,
+    "last_updated": "2026-06-08T08:47:42Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "coder/code-server",
+    "category": "coding",
+    "description_cn": "VS Code云端版",
+    "description_en": "VS Code in the browser",
+    "stars": 77887,
+    "last_updated": "2026-06-10T03:32:08Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "charliermarsh/ruff",
+    "category": "coding",
+    "description_cn": "极速Python代码检查器",
+    "description_en": "Extremely fast Python linter",
+    "stars": 47890,
+    "last_updated": "2026-06-10T06:24:38Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "princeton-nlp/SWE-agent",
+    "category": "coding",
+    "description_cn": "让LLM修复真实GitHub Issue",
+    "description_en": "Let LLMs fix real GitHub issues",
+    "stars": 19469,
+    "last_updated": "2026-06-10T06:08:47Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "openai/whisper",
+    "category": "audio",
+    "description_cn": "OpenAI开源多语言语音识别",
+    "description_en": "OpenAI open source multilingual speech recognition",
+    "stars": 102342,
+    "last_updated": "2026-06-10T06:23:36Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "modelscope/FunASR",
+    "category": "audio",
+    "description_cn": "工业级语音识别工具包",
+    "description_en": "Industrial-grade speech recognition toolkit",
+    "stars": 17664,
+    "last_updated": "2026-06-10T06:29:44Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "RVC-Project/Retrieval-based-Voice-Conversion",
+    "category": "audio",
+    "description_cn": "AI实时声音克隆",
+    "description_en": "AI real-time voice cloning",
+    "stars": 591,
+    "last_updated": "2026-06-10T03:17:57Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "synesthesiam/opentts",
+    "category": "audio",
+    "description_cn": "开源TTS服务器",
+    "description_en": "Open source TTS server",
+    "stars": 1115,
+    "last_updated": "2026-06-03T13:57:02Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "jianchang512/pyvideotrans",
+    "category": "audio",
+    "description_cn": "AI视频翻译和配音工具",
+    "description_en": "AI video translation and dubbing tool",
+    "stars": 17904,
+    "last_updated": "2026-06-10T06:52:02Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "category": "audio",
+    "description_cn": "跨平台AI研究助手",
+    "description_en": "Cross-platform AI research assistant",
+    "stars": 38000,
+    "last_updated": "2026-06-10T06:37:52Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "EleutherAI/lm-evaluation-harness",
+    "category": "dataset",
+    "description_cn": "大语言模型统一评测框架",
+    "description_en": "Unified LLM evaluation framework",
+    "stars": 12898,
+    "last_updated": "2026-06-10T06:08:10Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "huggingface/datasets",
+    "category": "dataset",
+    "description_cn": "HuggingFace数据集库",
+    "description_en": "HuggingFace datasets library",
+    "stars": 21607,
+    "last_updated": "2026-06-09T21:59:45Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "microsoft/promptbench",
+    "category": "dataset",
+    "description_cn": "提示词评测基准",
+    "description_en": "Prompt evaluation benchmark",
+    "stars": 2807,
+    "last_updated": "2026-06-10T05:37:58Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "stanford-crfm/helm",
+    "category": "dataset",
+    "description_cn": "语言模型整体评测",
+    "description_en": "Holistic evaluation of language models",
+    "stars": 2819,
+    "last_updated": "2026-06-09T16:17:37Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "openai/evals",
+    "category": "dataset",
+    "description_cn": "OpenAI开源评测框架",
+    "description_en": "OpenAI open source evaluation framework",
+    "stars": 18646,
+    "last_updated": "2026-06-10T04:45:12Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "ggerganov/llama.cpp",
+    "category": "inference",
+    "description_cn": "C++实现LLM推理，支持各种硬件",
+    "description_en": "LLM inference in C++, supports various hardware",
+    "stars": 115859,
+    "last_updated": "2026-06-10T06:42:28Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "NVIDIA/TensorRT-LLM",
+    "category": "inference",
+    "description_cn": "NVIDIA LLM推理优化",
+    "description_en": "NVIDIA LLM inference optimization",
+    "stars": 13840,
+    "last_updated": "2026-06-10T06:40:52Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "mlc-ai/mlc-llm",
+    "category": "inference",
+    "description_cn": "Universal LLM部署",
+    "description_en": "Universal LLM deployment",
+    "stars": 22780,
+    "last_updated": "2026-06-09T19:08:11Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "SqueezeAILab/SqueezeLLM",
+    "category": "inference",
+    "description_cn": "无损压缩LLM",
+    "description_en": "Lossless LLM compression",
+    "stars": 722,
+    "last_updated": "2026-06-01T08:39:10Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "ggml-org/ggml",
+    "category": "inference",
+    "description_cn": "机器学习张量库",
+    "description_en": "Machine learning tensor library",
+    "stars": 14783,
+    "last_updated": "2026-06-10T05:30:06Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "Dao-AILab/flash-attention",
+    "category": "inference",
+    "description_cn": "快速注意力机制实现，加速Transformer训练和推理",
+    "description_en": "Fast attention implementation accelerating Transformer training and inference",
+    "stars": 24105,
+    "last_updated": "2026-06-10T05:49:19Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "category": "application",
+    "description_cn": "一键生成AI短视频",
+    "description_en": "One-click AI short video generation",
+    "stars": 84081,
+    "last_updated": "2026-06-10T06:48:48Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "khoj-ai/khoj",
+    "category": "application",
+    "description_cn": "个人AI知识管理助手",
+    "description_en": "Personal AI knowledge management assistant",
+    "stars": 35042,
+    "last_updated": "2026-06-10T06:13:42Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "immich-app/immich",
+    "category": "application",
+    "description_cn": "自托管照片视频管理（AI分类）",
+    "description_en": "Self-hosted photo/video management with AI",
+    "stars": 102950,
+    "last_updated": "2026-06-10T06:20:09Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "mckaywrigley/chatbot-ui",
+    "category": "application",
+    "description_cn": "开源ChatGPT风格界面",
+    "description_en": "Open-source ChatGPT-style interface",
+    "stars": 33266,
+    "last_updated": "2026-06-10T06:46:18Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "Bin-Huang/chatbox",
+    "category": "application",
+    "description_cn": "桌面端LLM客户端",
+    "description_en": "Desktop LLM client",
+    "stars": 40403,
+    "last_updated": "2026-06-10T06:05:14Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "openai-translator/openai-translator",
+    "category": "application",
+    "description_cn": "基于ChatGPT的划词翻译",
+    "description_en": "ChatGPT-based translation tool",
+    "stars": 24922,
+    "last_updated": "2026-06-10T00:21:25Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "lencx/ChatGPT",
+    "category": "application",
+    "description_cn": "ChatGPT桌面应用",
+    "description_en": "ChatGPT desktop application",
+    "stars": 54385,
+    "last_updated": "2026-06-10T05:09:46Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "HKUDS/Vibe-Trading",
+    "category": "application",
+    "description_cn": "AI个人交易Agent",
+    "description_en": "AI personal trading agent",
+    "stars": 11490,
+    "last_updated": "2026-06-10T06:48:34Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "leondz/garak",
+    "category": "safety",
+    "description_cn": "LLM漏洞扫描工具",
+    "description_en": "LLM vulnerability scanning tool",
+    "stars": 8069,
+    "last_updated": "2026-06-10T05:07:35Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "microsoft/DeepSpeed",
+    "category": "safety",
+    "description_cn": "深度学习训练优化库",
+    "description_en": "Deep learning training optimization library",
+    "stars": 42490,
+    "last_updated": "2026-06-10T06:08:36Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "OpenInterpreter/open-interpreter",
+    "category": "agent",
+    "description_cn": "让LLM在本地运行代码完成任务",
+    "description_en": "Let LLMs run code locally to complete tasks",
+    "stars": 63851,
+    "last_updated": "2026-06-10T03:25:48Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "ComposioHQ/composio",
+    "category": "agent",
+    "description_cn": "为AI Agent提供200+工具集成",
+    "description_en": "200+ tool integrations for AI agents",
+    "stars": 28706,
+    "last_updated": "2026-06-10T04:07:18Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "OpenAccess-AI-Collective/axolotl",
+    "category": "research",
+    "description_cn": "LLM微调工具",
+    "description_en": "LLM fine-tuning tool",
+    "stars": 12032,
+    "last_updated": "2026-06-10T02:47:55Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "unslothai/unsloth",
+    "category": "research",
+    "description_cn": "2倍速LLM微调，省80%显存",
+    "description_en": "2x faster LLM fine-tuning, 80% less VRAM",
+    "stars": 66154,
+    "last_updated": "2026-06-10T06:49:27Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "hiyouga/LLaMA-Factory",
+    "category": "research",
+    "description_cn": "一站式LLM微调框架",
+    "description_en": "One-stop LLM fine-tuning framework",
+    "stars": 72041,
+    "last_updated": "2026-06-10T06:47:27Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "category": "research",
+    "description_cn": "本地LLM语音虚拟主播",
+    "description_en": "Local LLM voice VTuber",
+    "stars": 10759,
+    "last_updated": "2026-06-10T06:40:52Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "agentscope-ai/agentscope",
+    "category": "research",
+    "description_cn": "可理解、可信赖的Agent构建平台",
+    "description_en": "Understandable and trustworthy agent platform",
+    "stars": 26629,
+    "last_updated": "2026-06-10T06:23:28Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "langchain-ai/langchain",
+    "category": "rag",
+    "description_cn": "构建LLM应用的主流框架",
+    "description_en": "Mainstream framework for building LLM apps",
+    "stars": 138929,
+    "last_updated": "2026-06-10T06:36:26Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "chroma-core/chroma",
+    "category": "rag",
+    "description_cn": "开源向量数据库",
+    "description_en": "Open-source vector database",
+    "stars": 28341,
+    "last_updated": "2026-06-10T06:11:24Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "milvus-io/milvus",
+    "category": "rag",
+    "description_cn": "云原生向量数据库",
+    "description_en": "Cloud-native vector database",
+    "stars": 44707,
+    "last_updated": "2026-06-10T03:08:37Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "facebookresearch/faiss",
+    "category": "rag",
+    "description_cn": "Facebook高效相似度搜索",
+    "description_en": "Facebook efficient similarity search",
+    "stars": 40248,
+    "last_updated": "2026-06-10T05:54:02Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "weaviate/weaviate",
+    "category": "rag",
+    "description_cn": "开源向量搜索引擎",
+    "description_en": "Open-source vector search engine",
+    "stars": 16305,
+    "last_updated": "2026-06-10T05:31:29Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "apache/tvm",
+    "category": "edge",
+    "description_cn": "深度学习编译器",
+    "description_en": "Deep learning compiler",
+    "stars": 13452,
+    "last_updated": "2026-06-10T05:20:57Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "exo-explore/exo",
+    "category": "edge",
+    "description_cn": "用日常设备构建AI集群",
+    "description_en": "Build AI clusters using everyday devices",
+    "stars": 45264,
+    "last_updated": "2026-06-10T06:41:05Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "openppl-public/ppl.nn",
+    "category": "edge",
+    "description_cn": "高性能神经网络推理引擎",
+    "description_en": "High-performance neural network inference engine",
+    "stars": 1372,
+    "last_updated": "2026-06-06T03:16:52Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "PaddlePaddle/PaddleOCR",
+    "category": "edge",
+    "description_cn": "轻量级OCR工具包",
+    "description_en": "Lightweight OCR toolkit",
+    "stars": 81682,
+    "last_updated": "2026-06-10T06:43:05Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "MemPalace/mempalace",
+    "category": "others",
+    "description_cn": "开源AI记忆系统",
+    "description_en": "Open-source AI memory system",
+    "stars": 55215,
+    "last_updated": "2026-06-10T06:48:45Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "roboflow/supervision",
+    "category": "others",
+    "description_cn": "可复用的计算机视觉工具库",
+    "description_en": "Reusable computer vision tools",
+    "stars": 43207,
+    "last_updated": "2026-06-10T06:50:15Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "oobabooga/text-generation-webui",
+    "category": "others",
+    "description_cn": "大模型Web界面和推理",
+    "description_en": "LLM web UI and inference",
+    "stars": 47286,
+    "last_updated": "2026-06-09T22:56:58Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  },
+  {
+    "name": "turboderp/exllamav2",
+    "category": "others",
+    "description_cn": "本地大模型高效推理",
+    "description_en": "Efficient local LLM inference",
+    "stars": 4547,
+    "last_updated": "2026-06-09T02:43:54Z",
+    "added_date": "2026-06-10T14:28:50.251780",
+    "status": "active"
+  }
+]

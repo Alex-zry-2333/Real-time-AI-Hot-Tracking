@@ -1,0 +1,98 @@
+{
+  "categories": [
+    {
+      "id": "llm",
+      "name_cn": "大语言模型",
+      "name_en": "Large Language Models",
+      "icon": "🧠"
+    },
+    {
+      "id": "multimodal",
+      "name_cn": "多模态模型",
+      "name_en": "Multimodal Models",
+      "icon": "🎨"
+    },
+    {
+      "id": "agent",
+      "name_cn": "Agent框架",
+      "name_en": "Agent Frameworks",
+      "icon": "🤖"
+    },
+    {
+      "id": "devtools",
+      "name_cn": "开发工具",
+      "name_en": "Development Tools",
+      "icon": "🛠️"
+    },
+    {
+      "id": "coding",
+      "name_cn": "代码助手",
+      "name_en": "Coding Assistants",
+      "icon": "💻"
+    },
+    {
+      "id": "audio",
+      "name_cn": "语音与音频",
+      "name_en": "Speech & Audio",
+      "icon": "🎙️"
+    },
+    {
+      "id": "dataset",
+      "name_cn": "数据集与评测",
+      "name_en": "Datasets & Benchmarks",
+      "icon": "📊"
+    },
+    {
+      "id": "inference",
+      "name_cn": "推理优化",
+      "name_en": "Inference Optimization",
+      "icon": "⚡"
+    },
+    {
+      "id": "application",
+      "name_cn": "AI应用",
+      "name_en": "AI Applications",
+      "icon": "🚀"
+    },
+    {
+      "id": "safety",
+      "name_cn": "安全与对齐",
+      "name_en": "Safety & Alignment",
+      "icon": "🔒"
+    },
+    {
+      "id": "research",
+      "name_cn": "科研工具",
+      "name_en": "Research Tools",
+      "icon": "🔬"
+    },
+    {
+      "id": "rag",
+      "name_cn": "向量与检索",
+      "name_en": "RAG & Vector Search",
+      "icon": "🔍"
+    },
+    {
+      "id": "edge",
+      "name_cn": "硬件与边缘",
+      "name_en": "Hardware & Edge",
+      "icon": "📱"
+    },
+    {
+      "id": "others",
+      "name_cn": "其他创新",
+      "name_en": "Other Innovations",
+      "icon": "✨"
+    }
+  ],
+  "update_schedule": {
+    "start_day": "Monday",
+    "start_hour": 0,
+    "projects_per_batch": 10,
+    "api_delay_seconds": 6,
+    "archive_threshold": {
+      "days_since_update": 180,
+      "max_stars": 10000
+    }
+  }
+}
