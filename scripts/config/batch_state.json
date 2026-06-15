@@ -1,8 +1,8 @@
 {
-  "current_batch": 5,
+  "current_batch": 6,
   "total_batches": 9,
   "projects_per_batch": 10,
-  "last_run": "2026-06-15T19:03:23.776019",
+  "last_run": "2026-06-15T22:10:57.054204",
   "week_start": "2026-06-10T14:56:42.389393",
   "active_count": 84,
   "archived_count": 0,
