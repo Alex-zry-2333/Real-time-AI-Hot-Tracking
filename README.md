@@ -1,7 +1,7 @@
 # 🔥 实时AI热点追踪
 
 > 追踪GitHub上最热门的AI开源项目，每周自动更新
-> 最后更新：2026-08-10
+> 最后更新：2026-08-12
 
 ## 📌 项目简介
 
@@ -160,7 +160,7 @@
 | 项目 | ⭐ Stars | 最后更新 | 功能简介 |
 |------|---------|---------|---------|
 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 55,215 | 2026-06-10 | 开源AI记忆系统 |
-| [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 47,286 | 2026-06-09 | 大模型Web界面和推理 |
+| [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 47,543 | 2026-08-12 | 大模型Web界面和推理 |
 | [roboflow/supervision](https://github.com/roboflow/supervision) | 43,207 | 2026-06-10 | 可复用的计算机视觉工具库 |
 | [turboderp/exllamav2](https://github.com/turboderp/exllamav2) | 4,547 | 2026-06-09 | 本地大模型高效推理 |
 

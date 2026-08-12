@@ -1,7 +1,7 @@
 # 🔥 Real-time AI Hot Tracking
 
 > Tracking the hottest AI open-source projects on GitHub, updated weekly
-> Last updated: 2026-08-10
+> Last updated: 2026-08-12
 
 ## 📌 About
 
@@ -160,7 +160,7 @@ Projects are checked weekly. Those inactive for over 6 months with <10k stars ar
 | Project | ⭐ Stars | Last Updated | Description |
 |---------|---------|--------------|-------------|
 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 55,215 | 2026-06-10 | Open-source AI memory system |
-| [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 47,286 | 2026-06-09 | LLM web UI and inference |
+| [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 47,543 | 2026-08-12 | LLM web UI and inference |
 | [roboflow/supervision](https://github.com/roboflow/supervision) | 43,207 | 2026-06-10 | Reusable computer vision tools |
 | [turboderp/exllamav2](https://github.com/turboderp/exllamav2) | 4,547 | 2026-06-09 | Efficient local LLM inference |
 
