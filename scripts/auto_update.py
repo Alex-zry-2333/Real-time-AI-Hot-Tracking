@@ -93,17 +93,7 @@ def update_batch():
     archived_count = 0
     
     for i, repo in enumerate(batch_repos):
-        # 如果项目已有最新数据，跳过API调用
-        if repo.get("stars", 0) > 0 and repo.get("last_updated"):
-            # 但仍需检查是否需要归档
-            if should_archive(repo, config):
-                repo["status"] = "archived"
-                archived_repos.append(repo)
-                active_repos.remove(repo)
-                archived_count += 1
-                print(f"  📦 归档: {repo['name']} ({repo['stars']}⭐)")
-            continue
-        
+        # 每次都重新调用API获取最新数据，不再跳过
         info = fetch_repo_info(repo["name"])
         if info:
             repo["stars"] = info["stars"]
@@ -111,6 +101,7 @@ def update_batch():
             if info["description"] and not repo.get("description_en"):
                 repo["description_en"] = info["description"]
             updated_count += 1
+            print(f"  ✅ 更新: {repo['name']} ({repo['stars']:,}⭐)")
             
             # 检查是否需要归档
             if should_archive(repo, config):
@@ -118,7 +109,9 @@ def update_batch():
                 archived_repos.append(repo)
                 active_repos.remove(repo)
                 archived_count += 1
-                print(f"  📦 归档: {repo['name']} ({repo['stars']}⭐)")
+                print(f"  📦 归档: {repo['name']} ({repo['stars']:,}⭐)")
+        else:
+            print(f"  ⚠️ 跳过: {repo['name']} (API获取失败)")
         
         # API限速保护
         if i < len(batch_repos) - 1:
