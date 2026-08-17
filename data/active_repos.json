@@ -804,8 +804,8 @@
     "category": "others",
     "description_cn": "开源AI记忆系统",
     "description_en": "Open-source AI memory system",
-    "stars": 58414,
-    "last_updated": "2026-08-17T10:18:08Z",
+    "stars": 58424,
+    "last_updated": "2026-08-17T19:47:34Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -814,8 +814,8 @@
     "category": "others",
     "description_cn": "可复用的计算机视觉工具库",
     "description_en": "Reusable computer vision tools",
-    "stars": 49467,
-    "last_updated": "2026-08-17T10:01:54Z",
+    "stars": 49478,
+    "last_updated": "2026-08-17T18:15:41Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -824,8 +824,8 @@
     "category": "others",
     "description_cn": "大模型Web界面和推理",
     "description_en": "LLM web UI and inference",
-    "stars": 47547,
-    "last_updated": "2026-08-17T09:46:23Z",
+    "stars": 47549,
+    "last_updated": "2026-08-17T19:44:40Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
