@@ -105,7 +105,7 @@
     "description_cn": "专业级Stable Diffusion创作工具",
     "description_en": "Professional Stable Diffusion creation tool",
     "stars": 27905,
-    "last_updated": "2026-08-17T02:55:13Z",
+    "last_updated": "2026-08-17T10:37:12Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -125,7 +125,7 @@
     "description_cn": "SD WebUI优化版本",
     "description_en": "Optimized version of SD WebUI",
     "stars": 12962,
-    "last_updated": "2026-08-16T18:34:54Z",
+    "last_updated": "2026-08-17T11:48:53Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -135,7 +135,7 @@
     "description_cn": "深度学习文本转语音",
     "description_en": "Deep learning text-to-speech",
     "stars": 45906,
-    "last_updated": "2026-08-16T16:35:51Z",
+    "last_updated": "2026-08-17T12:03:46Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -144,8 +144,8 @@
     "category": "agent",
     "description_cn": "让AI自主完成任务的实验性框架",
     "description_en": "Experimental framework for AI autonomous tasks",
-    "stars": 186647,
-    "last_updated": "2026-08-17T02:15:15Z",
+    "stars": 186639,
+    "last_updated": "2026-08-17T13:18:42Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -154,8 +154,8 @@
     "category": "agent",
     "description_cn": "可视化构建AI Agent和工作流",
     "description_en": "Visual tool for building AI agents and workflows",
-    "stars": 153342,
-    "last_updated": "2026-08-17T03:34:12Z",
+    "stars": 153353,
+    "last_updated": "2026-08-17T13:30:49Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -164,8 +164,8 @@
     "category": "agent",
     "description_cn": "生产级Agent工作流开发平台",
     "description_en": "Production-ready agent workflow development platform",
-    "stars": 152655,
-    "last_updated": "2026-08-17T03:32:55Z",
+    "stars": 152688,
+    "last_updated": "2026-08-17T13:27:42Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -174,8 +174,8 @@
     "category": "agent",
     "description_cn": "多Agent协作框架",
     "description_en": "Multi-agent collaboration framework",
-    "stars": 57180,
-    "last_updated": "2026-08-17T03:31:50Z",
+    "stars": 57202,
+    "last_updated": "2026-08-17T13:30:21Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -184,8 +184,8 @@
     "category": "agent",
     "description_cn": "微软多Agent对话框架",
     "description_en": "Microsoft multi-agent conversational framework",
-    "stars": 60457,
-    "last_updated": "2026-08-17T00:28:12Z",
+    "stars": 60465,
+    "last_updated": "2026-08-17T12:24:38Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -194,8 +194,8 @@
     "category": "agent",
     "description_cn": "可随用户成长的智能Agent",
     "description_en": "Intelligent agent that grows with you",
-    "stars": 231592,
-    "last_updated": "2026-08-17T03:40:03Z",
+    "stars": 231817,
+    "last_updated": "2026-08-17T13:31:38Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
