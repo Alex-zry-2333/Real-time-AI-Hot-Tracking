@@ -4,8 +4,8 @@
     "category": "llm",
     "description_cn": "Meta开源的大语言模型系列",
     "description_en": "Meta's open source large language model series",
-    "stars": 59560,
-    "last_updated": "2026-08-17T09:48:16Z",
+    "stars": 59561,
+    "last_updated": "2026-08-17T18:39:08Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -14,8 +14,8 @@
     "category": "llm",
     "description_cn": "阿里巴巴开源的大语言模型",
     "description_en": "Alibaba's open source large language model",
-    "stars": 21598,
-    "last_updated": "2026-08-17T12:20:04Z",
+    "stars": 21599,
+    "last_updated": "2026-08-17T17:38:19Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -35,7 +35,7 @@
     "description_cn": "Mistral AI高效大语言模型",
     "description_en": "Mistral AI efficient large language model",
     "stars": 10835,
-    "last_updated": "2026-08-17T06:28:11Z",
+    "last_updated": "2026-08-17T14:33:16Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -44,8 +44,8 @@
     "category": "llm",
     "description_cn": "Rust实现的极简ML框架，支持LLM推理",
     "description_en": "Minimalist ML framework in Rust supporting LLM inference",
-    "stars": 20913,
-    "last_updated": "2026-08-17T08:43:49Z",
+    "stars": 20916,
+    "last_updated": "2026-08-17T16:02:35Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -84,8 +84,8 @@
     "category": "multimodal",
     "description_cn": "Stable Diffusion最流行的Web界面",
     "description_en": "Most popular web UI for Stable Diffusion",
-    "stars": 164530,
-    "last_updated": "2026-08-17T11:58:19Z",
+    "stars": 164549,
+    "last_updated": "2026-08-17T21:05:33Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -94,8 +94,8 @@
     "category": "multimodal",
     "description_cn": "节点式Stable Diffusion工作流",
     "description_en": "Node-based Stable Diffusion workflow",
-    "stars": 128041,
-    "last_updated": "2026-08-17T12:20:47Z",
+    "stars": 128121,
+    "last_updated": "2026-08-17T21:58:46Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
