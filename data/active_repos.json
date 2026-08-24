@@ -4,8 +4,8 @@
     "category": "llm",
     "description_cn": "Meta开源的大语言模型系列",
     "description_en": "Meta's open source large language model series",
-    "stars": 59571,
-    "last_updated": "2026-08-24T03:50:14Z",
+    "stars": 59573,
+    "last_updated": "2026-08-24T14:26:06Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -14,8 +14,8 @@
     "category": "llm",
     "description_cn": "阿里巴巴开源的大语言模型",
     "description_en": "Alibaba's open source large language model",
-    "stars": 21638,
-    "last_updated": "2026-08-24T09:23:34Z",
+    "stars": 21639,
+    "last_updated": "2026-08-24T17:00:22Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -45,7 +45,7 @@
     "description_cn": "Rust实现的极简ML框架，支持LLM推理",
     "description_en": "Minimalist ML framework in Rust supporting LLM inference",
     "stars": 20946,
-    "last_updated": "2026-08-24T06:25:52Z",
+    "last_updated": "2026-08-24T16:02:52Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -54,8 +54,8 @@
     "category": "llm",
     "description_cn": "零一万物开源大模型",
     "description_en": "01.AI open source large model",
-    "stars": 7833,
-    "last_updated": "2026-08-24T06:57:15Z",
+    "stars": 7836,
+    "last_updated": "2026-08-24T17:30:58Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -84,8 +84,8 @@
     "category": "multimodal",
     "description_cn": "Stable Diffusion最流行的Web界面",
     "description_en": "Most popular web UI for Stable Diffusion",
-    "stars": 164631,
-    "last_updated": "2026-08-24T08:57:04Z",
+    "stars": 164636,
+    "last_updated": "2026-08-24T15:39:30Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
@@ -94,8 +94,8 @@
     "category": "multimodal",
     "description_cn": "节点式Stable Diffusion工作流",
     "description_en": "Node-based Stable Diffusion workflow",
-    "stars": 129659,
-    "last_updated": "2026-08-24T09:37:22Z",
+    "stars": 129754,
+    "last_updated": "2026-08-24T19:04:56Z",
     "added_date": "2026-06-10T14:28:50.251780",
     "status": "active"
   },
