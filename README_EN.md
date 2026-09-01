@@ -1,7 +1,7 @@
 # 🔥 Real-time AI Hot Tracking
 
 > Tracking the hottest AI open-source projects on GitHub, updated weekly
-> Last updated: 2026-08-31
+> Last updated: 2026-09-01
 
 ## 📌 About
 
